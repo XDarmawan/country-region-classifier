@@ -4,9 +4,9 @@ An AI-powered tool that automatically classifies countries by their geographical
 
 ## 🌍 Data Source
 
-dataset: ["BI intro to data cleaning eda and machine learning"]
-Url: (https://www.kaggle.com/datasets/walekhwatlphilip/intro-to-data-cleaning-eda-and-machine-learning) 
-Author: walekhwatlphilip.
+ - dataset: ["BI intro to data cleaning eda and machine learning"]
+ - Url: (https://www.kaggle.com/datasets/walekhwatlphilip/intro-to-data-cleaning-eda-and-machine-learning) 
+ - Author: walekhwatlphilip.
 
 ## ✨ Features
 
@@ -84,4 +84,5 @@ MIT License - feel free to use and modify this code.
 
 - Dataset by [walekhwatlphilip](https://www.kaggle.com/walekhwatlphilip) on Kaggle
 - Uses Google's Gemini AI API
+
 - Built with Python and pandas
